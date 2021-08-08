@@ -1,0 +1,5 @@
+rootProject.name = 'settings.gradle'
+include 'db'
+include 'api'
+include 'service'
+
